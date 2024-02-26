@@ -1,0 +1,15 @@
+#submit-button {
+    background-color: #b69ccf;
+    color: white;
+}
+
+#submit-button:hover {
+    background-color: #9878b7;
+    color: white;
+}
+
+.pop-on-hover {
+    display: inline-block;
+    vertical-align: middle;
+    box-shadow: 0 0 1px;
+}
