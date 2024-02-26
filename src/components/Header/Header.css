@@ -1,0 +1,12 @@
+.header {
+    background-color: #c38ed5;
+    height: "20vh";
+    display: flex;
+    justify-content: space-between;
+    padding: 2vw;
+}
+
+#header-name {
+    color: #f9edfd;
+    font-size: xx-large;
+}
