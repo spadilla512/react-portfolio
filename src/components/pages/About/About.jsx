@@ -1,20 +1,14 @@
 import React from 'react';
-import me from '../../../images/IMG_1320.jpg';
-import CardMedia from '@mui/material/CardMedia';
+import profileImage from '../../../images/IMG_1320.jpg';
 import './About.css';
 
 export default function About() {
     return (
         <>
             <div className="image-container">
-                <CardMedia
-                    component="img"
+                <img
                     className="color-img"
-                    style={{
-                        height: "250px",
-
-                    }}
-                    image={me} alt="About me" />
+                    src={profileImage} alt="About me" />
         
             </div>
             <div>
