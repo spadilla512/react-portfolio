@@ -1,18 +1,18 @@
 body {
-    margin: 0;
-    box-sizing: border-box;
-    background-color: #e0b6f6;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #e0b6f6;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
-    color: #9878b7
+  text-decoration: underline;
+  color: #9878b7
 }
 
 h1, p {
-    color: #f9edfd
+  color: #f9edfd
 }
