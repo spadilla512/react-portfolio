@@ -1,0 +1,19 @@
+#me {
+    float: "left";
+    width: "150px";
+    height: 250px;
+    margin-right: 30px;
+}
+
+#me img {
+    object-fit: contain;
+    object-position: left;
+}
+
+#about-me {
+    display: flex;
+    justify-content: center;
+}
+#p-about {
+    text-align: right;
+}
